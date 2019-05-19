@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BLL</name>
+    </assembly>
+    <members>
+        <member name="T:BLL.Services.CommentService">
+            <summary>
+            Service to work with <c>comments</c>>.
+            
+            </summary>
+        </member>
+    </members>
+</doc>
